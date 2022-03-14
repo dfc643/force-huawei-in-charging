@@ -1,0 +1,6 @@
+id=com.huawei.forcecharging
+name=Force Huawei Device Charging
+version=v1
+versionCode=1
+author=dfc643
+description=Force Huawei device into charging mode, ignore all errors.
